@@ -1,10 +1,11 @@
 import React from 'react';
+import CityTable from './Tabel';
 
 
 function App() {
   return (
     <div >
-  amir
+      <CityTable />
     </div>
   );
 }
